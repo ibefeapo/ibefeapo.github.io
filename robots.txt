@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ibefeapo.github.io/FmG/sitemap_index.txt
+Sitemap: https://ibefeapo.github.io/IfV/sitemap_index.txt
+Sitemap: https://ibefeapo.github.io/ZuJ/sitemap_index.txt
+Sitemap: https://ibefeapo.github.io/fyV/sitemap_index.txt
